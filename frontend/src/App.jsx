@@ -72,6 +72,9 @@ const appRouter = createBrowserRouter([
   },
 
 ])
+// useEffect(()=>{
+//   localStorage.clear()
+//   },[])
 function App() {
 
   return (
